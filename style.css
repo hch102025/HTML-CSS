@@ -90,6 +90,10 @@ article {
   margin-left: 4%;
 }
 
+.main-article {
+  height: 550px;
+}
+
 img {
   max-width: 80%;
   max-height: 70%;
